@@ -67,3 +67,12 @@ Endpoints:
 ----------------------------
 ![UpdateProduct](./img/update.png)
 ----------------------------
+
+
+# Etapa #2 MS Products  con TCP 
+
+```bash
+npm i --save  @nestjs/microservices
+```
+
+Cambio de REST a TCP en `products.controller.ts` a MessagePattern
